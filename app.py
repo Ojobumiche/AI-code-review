@@ -1,9 +1,16 @@
 import streamlit as st
 from openai import OpenAI
 
-client = OpenAI(api_key="mczwPSvwafFci001pBHB")
+client = OpenAI(OPENAI_API_KEY)
 
 st.title("AI Code Reviewer (Python)")
+
+# Sidebar for configuration
+st.sidebar.header("Review Settings")
+model = st.sidebar.selectbox("Select Model", ["GPT-4", "Claude 3.5 Sonnet"])
+temp = st.sidebar.slider("Temperature", 0.0, 1.0, 0.2)
+focus = st.sidebar.multiselect("Review Focus", ["Security", "Efficiency", "Readability", "Bugs"], default=["Bugs"])
+
 
 code_input = st.text_area("Paste your Python code here:")
 

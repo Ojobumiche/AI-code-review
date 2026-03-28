@@ -19,13 +19,13 @@ This project demonstrates practical skills in:
 
 ✨ Features
 
-🔍 Bug Detection** — Identifies logical and syntactical issues  
-⚡ Code Improvements** — Suggests optimizations and best practices  
-📈 Time Complexity Analysis** — Evaluates algorithm efficiency  
-✅ Refactored Code Generation** — Produces cleaner, optimized code  
-🏆 Code Quality Score (1–10)** — Rates overall code quality  
-📂 File Upload Support** — Analyze `.py` files directly  
-🎯 Custom Review Focus** — Choose between:
+🔍 Bug Detection, identifies logical and syntactical issues.  
+⚡ Code Improvements, suggests optimizations and best practices.  
+📈 Time Complexity Analysis, evaluates algorithm efficiency.  
+✅ Refactored Code Generation, produces cleaner, optimized code.  
+🏆 Code Quality Score (1–10), rates overall code quality.  
+📂 File Upload Support, Analyze `.py` files directly  
+🎯 Custom Review Focus, choose between:
   - Security
   - Efficiency
   - Readability

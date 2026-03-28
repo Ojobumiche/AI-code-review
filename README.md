@@ -101,3 +101,15 @@ Joshua Alfa Monday
 
 GitHub: https://github.com/Ojobumiche
 Email: bumiche@gmail.com
+
+---------------------------------------------------------------------------------------
+
+🌍 Availability
+Open to remote opportunities in:
+Python Backend Development.
+AI Engineering.
+Software Engineering.
+
+⭐ Acknowledgements:
+OpenAI for AI model access.
+Streamlit for rapid UI development.
